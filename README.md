@@ -1,5 +1,5 @@
 # oneMobileTitle
-원스토어 모바일고딕 제목체
+원스토어 모바일 고딕 제목체
 
 <pre>
 @font-face {
